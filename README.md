@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alikaraali
 - 👀 I’m interested in AI research.
-- 🌱 I’m learning something everyday.
+- 🌱 I’m learning something new everyday.
 - 💞️ I’m looking to collaborate on [TODO].
 - 📫 How to reach me via my email.
 
