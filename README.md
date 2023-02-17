@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI research and development.
 - 🌱 I’m trying to learn something new everyday.
 - 💞️ I’m looking to collaborate on Python, AI anc Computer Vision.
-- 📫 Reach me via my email.
+- 📫 Reach me via my email (https://sites.google.com/site/axkaraali).
 
 <!---
 alikaraali/alikaraali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
