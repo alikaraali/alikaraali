@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alikaraali
-- 👀 I’m interested in AI research.
-- 🌱 I’m learning something new everyday.
-- 💞️ I’m looking to collaborate on [TODO].
-- 📫 How to reach me via my email.
+- 👀 I’m interested in AI research and development.
+- 🌱 I’m trying to learn something new everyday.
+- 💞️ I’m looking to collaborate on Python, AI anc Computer Vision.
+- 📫 Reach me via my email.
 
 <!---
 alikaraali/alikaraali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
